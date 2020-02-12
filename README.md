@@ -5,7 +5,7 @@
 
 ## Introduction
 
-The goal of this extended lab is to apply the statistical concepts that you have learned so far to real-world data both to practice and better understand how these concepts are useful. 
+ The goal of this extended lab is to apply the statistical concepts that you have learned so far to real-world data both to practice and better understand how these concepts are useful. 
 
 
 ## Getting Started
