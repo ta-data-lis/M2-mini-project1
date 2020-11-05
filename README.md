@@ -25,7 +25,7 @@ This lab consists of two parts: Data cleaning & Exploratory data analysis. You s
 
 - '1.-Data Cleaning.ipynb' with your responses
 - '2.-EDA.ipynb' with your responses
-
+- Tabelau dashboard link: https://public.tableau.com/profile/cinthya.langue.blois#!/vizhome/Mini_Project_Diamonds/Dashboard3
 
 ## Submission
 
