@@ -1,32 +1,17 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="Diamonds_Price_Overview\pile-of-diamonds_large.jpg" alt="Diamonds" width="100"/>
 
-# Mini-Project | Module 2 Cumulative Lab 1
+# Mini-Project | Diamonds Price Overview
 
 
 ## Introduction
 
-The goal of this extended lab is to apply the statistical concepts that you have learned so far to real-world data both to practice and better understand how these concepts are useful. 
+This mini project was developed as part of my performance evaluation during Ironhack's Data Analytics Bootcamp in Lisbon. The dataset can be found in Kaggle.
+
+It consists of cleaning the data, exploratory data visualization and an analytical dashboard for evaluating and analyzing diamond prices according to the features indicated in the dataset.
 
 
-## Getting Started
+## Content
 
-This lab consists of two parts: Data cleaning & Exploratory data analysis. You should begin with '1.-Data Cleaning.ipynb', and then move on to '2.-EDA.ipynb' as you will want to use the clean dataset you build in part 1 to complete part 2. 
-
-
-## Expectations
-
-- Write clean, well-commented code
-- Fully explain your responses where necessary
-- Refer to the lecture notes if you have questions
-- Don't be afraid to ask your TAs for help!
-
-
-## Deliverables
-
-- '1.-Data Cleaning.ipynb' with your responses
+- '1.-Data Cleaning.ipynb'
 - '2.-EDA.ipynb' with your responses
 - Tabelau dashboard link: https://public.tableau.com/profile/cinthya.langue.blois#!/vizhome/Mini_Project_Diamonds/Dashboard3
-
-## Submission
-
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
